@@ -5,6 +5,6 @@
 > SConcrete is FLUTTER APP
 I am ABDELRAHMAN AHMED ABDAIM
 From [Luxor-Egypt](https://en.wikipedia.org/wiki/Luxor).
-I programmed the App to help engineers calculate steel reinforcement in concrete quickly without using a computer only by phone.
+I programmed this App to help engineers calculate steel reinforcement in concrete quickly without using a computer only by phone.
 
 
