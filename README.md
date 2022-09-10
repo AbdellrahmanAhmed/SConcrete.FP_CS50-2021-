@@ -22,9 +22,6 @@ And add the accounts feature in it
 
 And maybe store the data on FireBase to reduce its size
 
-#### project files
-
-> Note that my English is poor, I use Google Translate
 
 ## ASSETS
 
@@ -137,16 +134,7 @@ full code
 ```
 Exists in bracketssolve_screen.dart
 
-## Conclusion
-
-I really enjoyed the course, the way of explaining is more than wonderful, a wonderful community, and it is great that I was with you
-...thank you very much
-
-## Sorry
-
-This is not the main project that I wanted to present as a final project. I had another wonderful project, but I had problems with it for more than 5 days because I could not connect Kotlin and Dart because I hadn't studied Kotlin before, but I tried and time was short. I submitted this project On the last day of the year, basically, 
-I know the application is simple, but I tried to provide another application, but unfortunately time did not help me.
 
 
-# Thanks ❤️
+
 
